@@ -1,5 +1,5 @@
-# Auth-MEAN Back-end
-Éste es el backend de la app AuthApp, se utilizaron las siguientes teconologías:
+# Auth-MEAN build prod
+Éste es el back y front de la app AuthApp, se utilizaron las siguientes teconologías:
 
 - NodeJS
     * "bcryptjs": "^2.4.3",
@@ -11,3 +11,4 @@
     * "mongoose": "^5.11.11"
 - mongoDB: Atlas
 -JavaScript
+- Angular
